@@ -1,0 +1,10 @@
+{
+	"name":"aop插件",
+	"configs":[{
+		"id":"1",
+		"name":"测试插件",
+		"active":true,
+		"className":"com.destiny.plugin.TestPlugin", // jar包路径
+		"jarRemoteUrl":"file:C:/Users/DESTINY/Desktop/pluginConfig/plugin-ins-1.0.jar" // jar位置
+	}]
+}
